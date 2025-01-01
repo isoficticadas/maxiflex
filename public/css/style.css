@@ -672,7 +672,7 @@ h3 {
 }
 
 .effects {
-  background-image: url("../img/effects-bg.jpg");
+  background-image: url("../img/effects-bg.webp");
   background-size: cover;
 }
 .effects * {
@@ -928,7 +928,7 @@ h3 {
 }
 
 .shine {
-  background-image: url("../img/shine-bg.png");
+  background-image: url("../img/shine-bg.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
